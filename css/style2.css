@@ -5,7 +5,7 @@
 body{
     height: 100vh;
     background: linear-gradient(90deg, #000, #000E 30%, #000A 50%, #0000),
-                url(../img/background1.png);
+                url(../img/background2.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: right;
@@ -19,7 +19,7 @@ body{
     body {
         padding: 0 30px;
         background-color: #0009;
-        background-image: url(../img/background1.png);
+        background-image: url(../img/background2.png);
         background-blend-mode:darken;
         background-position: 90%;
     }
