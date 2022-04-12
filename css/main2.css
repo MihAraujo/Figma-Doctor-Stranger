@@ -1,0 +1,34 @@
+main{
+    flex-grow: 1;
+    display: flex;
+    flex-direction: row;
+    gap: 134px;
+    align-items: center;
+    justify-content: center;
+}
+
+a{
+    flex-grow: 1;
+}
+
+.personagem1-text{
+    background-color: violet;
+    height: 569px;
+    width: 305px;
+}
+
+.personagem2-text{
+    background-color: tomato;
+    height: 569px;
+    width: 305px;
+}
+
+.personagem3-text{
+    background-color: teal;
+    height: 569px;
+    width: 305px;
+}
+
+.descricao{
+    height: 2000px;
+}
