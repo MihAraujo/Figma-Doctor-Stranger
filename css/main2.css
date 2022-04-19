@@ -11,24 +11,47 @@ a{
     flex-grow: 1;
 }
 
+span{
+    color: #fff;
+}
+
+.text-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 50px 10px;
+    height: 180px;
+    text-align: center;
+    gap: 13px;
+    font-family: 'Mulish', sans-serif;
+    font-size: 1.2rem;
+}
+
 .personagem1-text{
-    background-color: violet;
+    background-color: rgb(75, 31, 31);
     height: 569px;
     width: 305px;
+    transition: all .5s;
 }
 
 .personagem2-text{
-    background-color: tomato;
+    background-color: rgb(75, 31, 31);
     height: 569px;
     width: 305px;
+    transition: all .5s;
 }
 
 .personagem3-text{
-    background-color: teal;
+    background-color: rgb(75, 31, 31);
     height: 569px;
     width: 305px;
+    transition: all .5s;
+}
+
+.personagem1-text:hover, .personagem2-text:hover, .personagem3-text:hover{
+    background-color: var(--accent-color);
 }
 
 .descricao{
-    height: 2000px;
+    height: 200px;
 }
