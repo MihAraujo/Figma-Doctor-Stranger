@@ -3,8 +3,7 @@ Projeto construído durante as aulas de LIMA, no curso de desenvolvimento de sis
 
 ![](./img/web-site.png)
 
-<img src="./img/MOBILE.png" width="150px">
-<img src="./img/MENU.png" width="150px">
+<img src="./img/MOBILE.png" width="150px"> <img src="./img/MENU.png" width="150px">
 
 ---
 
